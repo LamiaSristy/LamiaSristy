@@ -17,6 +17,6 @@
 
 - 📫 How to reach me: 
      
-     ✉️ <a href=“mailto:lamiasristy@gmail.com?subject=Hello Lamia!“> Email</a>
+     ✉️ <a href="mailto:lamiasristy@gmail.com?subject=Hello Lamia!">Email</a>
      
      💼 [LinkedIn](https://www.linkedin.com/in/lamia-hemayet-sristy/)
