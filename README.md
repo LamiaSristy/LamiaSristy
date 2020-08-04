@@ -9,6 +9,10 @@
        CSS3
        Bootstrap
        Javascript (Basic)
+       c#
+       ASP.NET MVC
+       SQL Server
+      
        
 
 - 🔭 I’m currently working on 'Microverse Software Development Course', as a student and a mentor.🌟🌟- 
