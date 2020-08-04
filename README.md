@@ -9,14 +9,14 @@
        CSS3
        Bootstrap
        Javascript (Basic)
-       Ruby (Basic)
+       
 
 - 🔭 I’m currently working on 'Microverse Software Development Course', as a student and a mentor.🌟🌟- 
 
 - 👀 I’m looking for  an opportunity as a Full-Stack Software Developer in Netherlands.🙋
 
-- 📫 How to reach me: 
+- 📫 How to reach me:
+
      
-     ✉️ <a href="mailto:lamiasristy@gmail.com?subject=Hello Lamia!">Email</a>
-     
+     ✉️ <a href="mailto:lamiasristy@gmail.com?subject=Hello Lamia!">Email</a>     
      💼 [LinkedIn](https://www.linkedin.com/in/lamia-hemayet-sristy/)
