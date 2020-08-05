@@ -15,7 +15,7 @@
       
        
 
-- 🔭 I’m currently working on 'Microverse Software Development Course', as a student and a mentor.🌟🌟- 
+- 🔭 I’m currently working on 'Microverse Software Development Course', as a student as well as mentor.🌟🌟- 
 
 - 👀 I’m looking for  an opportunity as a Full-Stack Software Developer in Netherlands.🙋
 
