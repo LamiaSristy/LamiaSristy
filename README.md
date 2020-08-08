@@ -1,7 +1,7 @@
 ### 👋 ✨ Hello World!!! ✨ 👋  
 
- - I am Sheikh Lamia Hemayet Sristy, a Software Engineer💻. I have completed my Bachalors in Computer Science and Technology🎓. Currently living in Rotterdam, South Holland,
-   Netherlands.Here,you can find my solo projects as well as colleborative projectes.📔😊
+ - I am Sheikh Lamia Hemayet Sristy, a Software Engineer💻. I have completed my Bachalors in Computer Science and Engineering🎓. Currently living in Rotterdam, South Holland,
+   Netherlands. Here,you can find my solo projects as well as colleborative projectes.📔😊
    
  -🖥️ Experienced in:
 
