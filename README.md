@@ -1,7 +1,6 @@
 ### 👋 ✨ Hello World!!! ✨ 👋  
 
- - I am Sheikh Lamia Hemayet Sristy, a Software Engineer💻. I have completed my BSc. in Computer Science and Engineering🎓. Currently living in Rotterdam, South Holland,
-   Netherlands. Here,you can find my solo projects as well as colleborative projectes.📔😊
+ - I am Sheikh Lamia Hemayet Sristy, a Software Engineer💻. I have completed my BSc. in Computer Science and Engineering🎓. Currently living in Rotterdam, South Holland, Netherlands. Here, you can find my solo projects as well as collaborative projects.📔😊
    
  -🖥️ Experienced in:
 
@@ -15,9 +14,9 @@
       
        
 
-- 🔭 I’m currently working on 'Microverse Software Development Course', as a student as well as mentor.🌟🌟- 
+- 🔭 I’m currently working on 'Microverse Software Development Course', as a student as well as a mentor.🌟🌟- 
 
-- 👀 I’m looking for  an opportunity as a Full-Stack Software Developer in Netherlands.🙋
+- 👀 I’m looking for an opportunity as a Full-Stack Software Developer in the Netherlands.🙋
 
 - 📫 How to reach me:
 
