@@ -7,7 +7,7 @@
        HTML 5
        CSS3
        Bootstrap
-       Javascript (Basic)
+       Javascript
        c#
        ASP.NET MVC
        SQL Server
