@@ -1,6 +1,6 @@
-## Welcome to my GitHub repo!:octocat:  👋  
+## Welcome to my GitHub repo!👋  
 
-Here, you can find my solo projects as well as collaborative projects.📔😊
+Here, you can find my solo projects as well as collaborative projects.📔:octocat:
 
  - I am Sheikh Lamia Hemayet Sristy, a Software Engineer💻. 
  - I have a degree in Bachelor of Science in Computer Science and Engineering (CSE) 🎓.
@@ -16,10 +16,6 @@ Here, you can find my solo projects as well as collaborative projects.📔😊
 
 - 👀 I’m looking for an opportunity as a Full-Stack Software Developer in the Netherlands, as well as a remote opportunity so if you are looking for someone, let me know!.🙋
 
-- 📫 How to reach me:
-
+- 📫 How to reach me: ✉️ <a href="mailto:lamiasristy@gmail.com?subject=Hello Lamia!">Email</a>  |  💼 [LinkedIn](https://www.linkedin.com/in/lamia-hemayet-sristy/)
      
-     ✉️ <a href="mailto:lamiasristy@gmail.com?subject=Hello Lamia!">Email</a>     
-     💼 [LinkedIn](https://www.linkedin.com/in/lamia-hemayet-sristy/)
-     
--✌🏼 Thanks for reading!     
+-✌🏼 Thanks for reading!   
