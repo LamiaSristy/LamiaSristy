@@ -1,10 +1,9 @@
-### 👋 ✨ Hello World!!! ✨ 👋  
-Welcome to my GitHub repo!:octocat: 
+## Welcome to my GitHub repo!:octocat:  👋  
 
 Here, you can find my solo projects as well as collaborative projects.📔😊
 
  - I am Sheikh Lamia Hemayet Sristy, a Software Engineer💻. 
- - I have a bachelor in Computer Science and Engineering🎓.
+ - I have a degree in Bachelor of Science in Computer Science and Engineering (CSE) 🎓.
    
  -🖥️ Experienced in:
 
