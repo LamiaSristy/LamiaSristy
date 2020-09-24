@@ -5,18 +5,11 @@ Here, you can find my solo projects as well as collaborative projects.📔😊
 
  - I am Sheikh Lamia Hemayet Sristy, a Software Engineer💻. 
  - I have a bachelor in Computer Science and Engineering🎓.
- - Currently living in Rotterdam, South Holland, Netherlands🏠. 
    
  -🖥️ Experienced in:
 
-       HTML 5
-       CSS3
-       Bootstrap
-       Javascript
-       Ruby       
-       c#
-       ASP.NET MVC
-       SQL Server
+       Front-End: HTML 5 | CSS3 | Bootstrap | Javascript
+       Back-End: Ruby | c# | ASP.NET MVC | SQL Server
       
        
 
