@@ -8,7 +8,7 @@ Here, you can find my solo projects as well as collaborative projects.📔:octoc
  -🖥️ Experienced in:
 
        Front-End: HTML5 | CSS3 | Bootstrap | Javascript
-       Back-End: Ruby | c# | ASP.NET MVC | SQL Server
+       Back-End: Ruby | RoR | c# | ASP.NET MVC | SQL Server
       
       
       
