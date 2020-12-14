@@ -15,7 +15,7 @@ Here, you can find my solo projects as well as collaborative projects.📔:octoc
        
 
 
--🔭 I’m currently undergoing the Microverse Full Stack Development program, as a student as well as a mentor.🌟🌟
+-🔭 I’m currently undergoing the Microverse Full-Stack Development program, as a student as well as a mentor.🌟🌟
 
 -👀 I’m looking for an opportunity as a Full-Stack Software Developer in the Netherlands, as well as a remote opportunity so if you are looking for someone, let me know!.🙋
 
