@@ -4,18 +4,19 @@ Here, you can find my solo projects as well as collaborative projects.📔:octoc
 
  - I am Sheikh Lamia Hemayet Sristy, a Software Engineer💻. 
  - I have a degree in Bachelor of Science in Computer Science and Engineering (CSE) 🎓.
+ 
    
  -🖥️ Experienced in:
 
-       Front-End: HTML5 | CSS3 | Bootstrap | Javascript
-       Back-End: Ruby | RoR | c# | ASP.NET MVC | SQL Server
+       Front-End: React | Redux-tulkit | HTML5 | CSS3 | Bootstrap | Javascript
+       Back-End: Ruby | RoR | c# | ASP.NET MVC | PostgreSQL 
       
       
       
        
 
 
--🔭 I’m currently undergoing the Microverse Full-Stack Development program, as a student as well as a mentor.🌟🌟
+-🔭 - Currently, I am working on Microverse as a TSE(Technical Support Engineer) to improve my skills while developing projects in Pair Programming with developers from all over the globe while reviewing other's code 🌟🌟.
 
 -👀 I’m looking for an opportunity as a Full-Stack Software Developer in the Netherlands, as well as a remote opportunity so if you are looking for someone, let me know!.🙋
 
