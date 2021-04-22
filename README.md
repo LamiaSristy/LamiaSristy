@@ -18,8 +18,6 @@ Here, you can find my solo projects as well as collaborative projects.📔:octoc
 
 -🔭 - Currently, I am working on Microverse as a TSE(Technical Support Engineer) to improve my skills while developing projects in Pair Programming with developers from all over the globe while reviewing other's code 🌟🌟.
 
--👀 I’m looking for an opportunity as a Full-Stack Software Developer in the Netherlands, as well as a remote opportunity so if you are looking for someone, let me know!.🙋
-
 -📫 How to reach me: ✉️ <a href="mailto:lamiasristy@gmail.com?subject=Hello Lamia!">Email</a>  |  💼 [LinkedIn](https://www.linkedin.com/in/lamia-hemayet-sristy/)
      
 -✌🏼 Thanks for reading!   
