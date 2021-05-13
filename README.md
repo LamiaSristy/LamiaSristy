@@ -4,7 +4,7 @@ Here, you can find my solo projects as well as collaborative projects.📔:octoc
 
  - I am Sheikh Lamia Hemayet Sristy, a Software Engineer💻. 
  - I have a degree in Bachelor of Science in Computer Science and Engineering (CSE) 🎓.
- - Currently, I am working as a Software Engineer at <a href="https://lenoxparkinc.com/">Lenox Park Solutions Inc.</a> 🌟🌟.
+ - Currently, I am working as a Software Engineer at <a href="https://lenoxparkinc.com/" target="_blank">Lenox Park Solutions Inc.</a> 🌟🌟.
  
    
  -🖥️ Experienced in:
